@@ -9,7 +9,7 @@
 **![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)**
 
 <p align="center">
-  <img src="Sashok_hok.gif" width="800"/>
+  <img src="Sashok_hok.png" width="800"/>
 </p>
 
 </div>
